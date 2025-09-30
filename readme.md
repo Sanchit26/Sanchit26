@@ -5,8 +5,6 @@
   </a>
 </p>
 
-# 👋 Hi, I'm Sanchit Gupta
-
 ### Artificial Intelligence Student | Tech Enthusiast | Python | Web Development | Machine Learning | Computer Vision  
 
 ---
