@@ -5,10 +5,6 @@
   </a>
 </p>
 
-### Artificial Intelligence Student | Tech Enthusiast | Python | Web Development | Machine Learning | Computer Vision  
-
----
-
 ## 🌟 About Me  
 
 Greetings! I am **Sanchit Gupta (He/Him)**, a B.Tech student in **Artificial Intelligence** at *Vidya Jyothi Institute of Technology, Hyderabad*.  
