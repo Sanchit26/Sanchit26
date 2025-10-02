@@ -84,7 +84,7 @@ Here are some of the projects I’ve built — check out more on my GitHub 👉 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanchit-gupta-404a032a7/)  
 - 🐙 [GitHub](https://github.com/Sanchit26)  
-- ✉️ Reach me at: **(your email here)**  
+- ✉️ Reach me at: **23911A3555@vjit.ac.in**  
 
 ---
 
