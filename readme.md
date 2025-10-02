@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Sanchit26">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sanchit+Gupta+👋;Artificial+Intelligence+Student;Python+%7C+Machine+Learning+%7C+Computer+Vision;Web+Developer+%7C+Tech+Enthusiast;Always+learning+and+innovating!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sanchit+Gupta+👋;Artificial+Intelligence+Student;Python+%7C+ML+%7C+Computer+Vision;Web+Developer+%7C+Tech+Enthusiast;Always+learning+and+innovating!" alt="Typing SVG">
   </a>
 </p>
 
