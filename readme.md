@@ -42,6 +42,9 @@ Greetings! I am **Sanchit Gupta (He/Him)**, a B.Tech student in **Artificial Int
 
 Here are some of the projects I’ve built — check out more on my GitHub 👉 [@Sanchit26](https://github.com/Sanchit26)  
 
+- 🅿️ **[Smart Parking Reminder System](https://github.com/Sanchit26/Smart-parking-reminder-system)**  
+  Helps users locate their parked vehicles in large complexes using sensors, ESP32-CAM, OCR, and WhatsApp notifications.
+  
 - 🚀 **[Space Station Safety - Object Detection](https://github.com/Sanchit26/Space_Station_Safety-Object_Detection)**  
   YOLOv8-powered object detection dashboard to monitor safety hazards in space station environments.  
 
@@ -53,9 +56,6 @@ Here are some of the projects I’ve built — check out more on my GitHub 👉 
 
 - 🌐 **[Smart Traffic Management System](https://github.com/Sanchit26/smart-traffic-management-system)**  
   AI + IoT powered system for adaptive signals, emergency priority, and real-time traffic insights.  
-
-- 🅿️ **[Smart Parking Reminder System](https://github.com/Sanchit26/Smart-parking-reminder-system)**  
-  Helps users locate their parked vehicles in large complexes using sensors, ESP32-CAM, OCR, and WhatsApp notifications.  
 
 ---
 
