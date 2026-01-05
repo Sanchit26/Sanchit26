@@ -40,7 +40,7 @@ Greetings! I am **Sanchit Gupta (He/Him)**, a B.Tech student in **Artificial Int
 
 ## 📂 Featured Projects  
 
-Here are some of the projects I’ve built — check out more on my GitHub 👉 [@Sanchit26](https://github.com/Sanchit26)  
+Here are some of the projects I’ve built — check out more on my GitHub 👉 [@Sanchit26]([https://github.com/Sanchit26](https://github.com/Sanchit26?tab=repositories))  
 
 - 🅿️ **[Smart Parking Reminder System](https://github.com/Sanchit26/Smart-parking-reminder-system)**  
   Helps users locate their parked vehicles in large complexes using sensors, ESP32-CAM, OCR, and WhatsApp notifications.
