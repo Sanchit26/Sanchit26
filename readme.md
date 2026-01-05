@@ -40,7 +40,7 @@ Greetings! I am **Sanchit Gupta (He/Him)**, a B.Tech student in **Artificial Int
 
 ## 📂 Featured Projects  
 
-Here are some of the projects I’ve built — check out more on my GitHub 👉 [Repositories](https://github.com/Sanchit26?tab=repositories)  
+Here are some of the projects I’ve built — check out more on my GitHub 👉 [@sanchit26](https://github.com/Sanchit26?tab=repositories)  
 
 - 🅿️ **[Smart Parking Reminder System](https://github.com/Sanchit26/Smart-parking-reminder-system)**  
   Helps users locate their parked vehicles in large complexes using sensors, ESP32-CAM, OCR, and WhatsApp notifications.
@@ -64,19 +64,6 @@ Here are some of the projects I’ve built — check out more on my GitHub 👉 
 🔍 Exploring advanced concepts in **AI, automation, and machine learning**  
 📈 Actively looking for opportunities as a **Software Engineer / AI Engineer**  
 🤝 Open to collaborating on projects involving **AI, Web Development, and Data Visualization**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanchit26&show_icons=true&theme=tokyonight" alt="Sanchit's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchit26&theme=tokyonight" alt="Sanchit's Streak Stats" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit26&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
 
 ---
 
